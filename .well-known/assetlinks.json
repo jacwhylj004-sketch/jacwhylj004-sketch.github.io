@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jacwhylj004_sketch.labbook",
+        "sha256_cert_fingerprints": ["D8:6C:B0:D9:1D:C4:48:E1:90:67:D9:80:3F:09:BD:6B:FA:DF:38:75:21:93:71:03:5D:3B:11:C2:C1:67:8A:A7"]
+      }
+    }]
